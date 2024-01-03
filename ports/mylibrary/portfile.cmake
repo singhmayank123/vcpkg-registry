@@ -1,8 +1,8 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO singhmayank123/mylibrary
-    REF ca177c7e4b73e744ed09037b67de4241decd0751
-    TAG 1.0.0
+    REF 6d48797c400976aaa4f7a5bc99eb1daae29525a2
+    SHA512 0ff7809d6196ef7eaea2dafa927d568a7925ccd743117a49dbf0ff45008f3c0d5869d0fb9eb839a5d03cbc8452eeeae5eb9fd3f610ac62d9a139a4586d80ead1
     HEAD_REF main
 )
 vcpkg_configure_cmake(
